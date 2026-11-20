@@ -1,0 +1,59 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "hoTen": "Nguyễn Văn An",
+      "email": "an@example.com",
+      "diem": 8.5
+    },
+    {
+      "id": "2",
+      "hoTen": "Trần Thị Bình",
+      "email": "binh@example.com",
+      "diem": 6
+    },
+    {
+      "id": "3",
+      "hoTen": "Lê Minh Châu",
+      "email": "chau@example.com",
+      "diem": 9.2
+    },
+    {
+      "id": "Y-8mqH5QMQE",
+      "hoTen": "Trần Đăng Anh",
+      "email": "anh@example.com",
+      "diem": 7
+    },
+    {
+      "id": "egJmLFS_7ZU",
+      "hoTen": "Nguyễn Thị Trang",
+      "email": "an@example.com",
+      "diem": 6
+    },
+    {
+      "hoTen": "Trần Thị Mai",
+      "email": "mai.tran@gmail.com",
+      "diem": 9,
+      "id": "OW2vBDRCVpo"
+    },
+    {
+      "hoTen": "Đỗ Quốc Bảo",
+      "email": "bao.do@gmail.com",
+      "diem": 6.5,
+      "id": "0ez1KPHZtR8"
+    },
+    {
+      "hoTen": "Nguyễn Khánh Vy",
+      "email": "vy.nguyen@gmail.com",
+      "diem": 9.2,
+      "id": "kswBbRZTs4k"
+    },
+    {
+      "hoTen": "Vũ Đức Huy",
+      "email": "huy.vu@gmail.com",
+      "diem": 7,
+      "id": "aE_hHNlIHzw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

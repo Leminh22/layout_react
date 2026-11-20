@@ -1,0 +1,51 @@
+[
+    
+  {
+    "id": 1,
+    "tenSach": "Dế Mèn phiêu lưu ký",
+    "tacGia": "Tô Hoài",
+    "gia": 65000,
+    "theLoai": "Thiếu nhi",
+    "conHang": true
+  },
+  {
+    "id": 2,
+    "tenSach": "Lập trình JavaScript cơ bản",
+    "tacGia": "Nguyễn Văn An",
+    "gia": 120000,
+    "theLoai": "Công nghệ",
+    "conHang": true
+  },
+  {
+    "id": 3,
+    "tenSach": "Tuổi thơ dữ dội",
+    "tacGia": "Phùng Quán",
+    "gia": 110000,
+    "theLoai": "Văn học",
+    "conHang": false
+  },
+  {
+    "id": 4,
+    "tenSach": "React và TypeScript thực hành",
+    "tacGia": "Trần Thị Bình",
+    "gia": 185000,
+    "theLoai": "Công nghệ",
+    "conHang": true
+  },
+  {
+    "id": 5,
+    "tenSach": "Đất rừng phương Nam",
+    "tacGia": "Đoàn Giỏi",
+    "gia": 95000,
+    "theLoai": "Văn học",
+    "conHang": true
+  },
+  {
+    "id": 6,
+    "tenSach": "Kính vạn hoa",
+    "tacGia": "Nguyễn Nhật Ánh",
+    "gia": 75000,
+    "theLoai": "Thiếu nhi",
+    "conHang": false
+  }
+]

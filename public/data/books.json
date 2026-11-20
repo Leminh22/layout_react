@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "tenSach": "Dế Mèn phiêu lưu ký",
+    "tacGia": "Tô Hoài",
+    "gia": 65000,
+    "theLoai": "Thiếu nhi",
+    "conHang": true
+  },
+  {
+    "id": 2,
+    "tenSach": "Lập trình JavaScript cơ bản",
+    "tacGia": "Nguyễn Văn An",
+    "gia": 120000,
+    "theLoai": "Công nghệ",
+    "conHang": true
+  },
+  {
+    "id": 3,
+    "tenSach": "Tuổi thơ dữ dội",
+    "tacGia": "Phùng Quán",
+    "gia": 110000,
+    "theLoai": "Văn học",
+    "conHang": false
+  },
+  {
+    "id": 4,
+    "tenSach": "React và TypeScript thực hành",
+    "tacGia": "Trần Thị Bình",
+    "gia": 185000,
+    "theLoai": "Công nghệ",
+    "conHang": true
+  },
+  {
+    "id": 5,
+    "tenSach": "Đất rừng phương Nam",
+    "tacGia": "Đoàn Giỏi",
+    "gia": 95000,
+    "theLoai": "Văn học",
+    "conHang": true
+  },
+  {
+    "id": 6,
+    "tenSach": "Kính vạn hoa",
+    "tacGia": "Nguyễn Nhật Ánh",
+    "gia": 75000,
+    "theLoai": "Thiếu nhi",
+    "conHang": false
+  },
+  {
+    "id": 7,
+    "tenSach": "Cho tôi xin một vé đi tuổi thơ",
+    "tacGia": "Nguyễn Nhật Ánh",
+    "gia": 85000,
+    "theLoai": "Thiếu nhi",
+    "conHang": true
+  },
+  {
+    "id": 8,
+    "tenSach": "Harry Potter và Hòn đá Phù thủy",
+    "tacGia": "J.K. Rowling",
+    "gia": 150000,
+    "theLoai": "Fantasy",
+    "conHang": true
+  },
+  {
+    "id": 9,
+    "tenSach": "Nhà giả kim",
+    "tacGia": "Paulo Coelho",
+    "gia": 99000,
+    "theLoai": "Văn học",
+    "conHang": true
+  },
+  {
+    "id": 10,
+    "tenSach": "Đắc nhân tâm",
+    "tacGia": "Dale Carnegie",
+    "gia": 105000,
+    "theLoai": "Kỹ năng sống",
+    "conHang": false
+  },
+  {
+    "id": 11,
+    "tenSach": "Clean Code",
+    "tacGia": "Robert C. Martin",
+    "gia": 220000,
+    "theLoai": "Công nghệ",
+    "conHang": true
+  },
+  {
+    "id": 12,
+    "tenSach": "Lập trình Python cơ bản",
+    "tacGia": "Nguyễn Thành Công",
+    "gia": 135000,
+    "theLoai": "Công nghệ",
+    "conHang": true
+  },
+  {
+    "id": 13,
+    "tenSach": "Những tấm lòng cao cả",
+    "tacGia": "Edmondo De Amicis",
+    "gia": 88000,
+    "theLoai": "Văn học",
+    "conHang": true
+  },
+  {
+    "id": 14,
+    "tenSach": "Cây cam ngọt của tôi",
+    "tacGia": "José Mauro de Vasconcelos",
+    "gia": 115000,
+    "theLoai": "Văn học",
+    "conHang": false
+  },
+  {
+    "id": 15,
+    "tenSach": "Tôi thấy hoa vàng trên cỏ xanh",
+    "tacGia": "Nguyễn Nhật Ánh",
+    "gia": 95000,
+    "theLoai": "Thiếu nhi",
+    "conHang": true
+  },
+  {
+    "id": 16,
+    "tenSach": "Lập trình hướng đối tượng Java",
+    "tacGia": "Phạm Văn Tuấn",
+    "gia": 160000,
+    "theLoai": "Công nghệ",
+    "conHang": true
+  },
+  {
+    "id": 17,
+    "tenSach": "HTML và CSS cho người mới bắt đầu",
+    "tacGia": "Jon Duckett",
+    "gia": 175000,
+    "theLoai": "Công nghệ",
+    "conHang": false
+  },
+  {
+    "id": 18,
+    "tenSach": "Tuổi trẻ đáng giá bao nhiêu",
+    "tacGia": "Rosie Nguyễn",
+    "gia": 90000,
+    "theLoai": "Kỹ năng sống",
+    "conHang": true
+  },
+  {
+    "id": 19,
+    "tenSach": "Nhà lãnh đạo không chức danh",
+    "tacGia": "Robin Sharma",
+    "gia": 125000,
+    "theLoai": "Kỹ năng sống",
+    "conHang": true
+  },
+  {
+    "id": 20,
+    "tenSach": "Lập trình ReactJS từ cơ bản đến nâng cao",
+    "tacGia": "Nguyễn Minh Đức",
+    "gia": 190000,
+    "theLoai": "Công nghệ",
+    "conHang": true
+  }
+
+]
